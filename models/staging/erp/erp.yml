@@ -7,5 +7,5 @@ sources:
       - name: CATEGORY
       - name: PRODUCTS
       - name: SUPPLIERS
-
+      - name: EMPLOYEES
     
