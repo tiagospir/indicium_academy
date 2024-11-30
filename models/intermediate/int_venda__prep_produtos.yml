@@ -1,5 +1,5 @@
 models:
-  - name: int_vendas__prep_produtos
+  - name: int_venda__prep_produtos
     description: Modelo que enriquece os dados de produtos com categoria e fornecedor.
     columns:
       - name: PK_PRODUTO
